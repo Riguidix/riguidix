@@ -1,12 +1,12 @@
-<svg fill="none" viewBox="0 0 850 380" width="850" height="380" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 850 740" width="850" height="740" xmlns="http://www.w3.org/2000/svg">
   <defs>
     
     <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
       <rect width="4" height="2" fill="rgba(0, 0, 0, 0.35)" />
     </pattern>
     
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="2" result="blur" />
+    <filter id="glow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="1.8" result="blur" />
       <feComposite in="SourceGraphic" in2="blur" operator="over" />
     </filter>
   </defs>
@@ -14,48 +14,61 @@
   <style>
     .bezel { fill: #1a1d1a; stroke: #2c332c; stroke-width: 4; }
     .screen { fill: #080c08; stroke: #143d14; stroke-width: 2; }
-    .text { font-family: 'Courier New', Courier, monospace; font-size: 14px; fill: #33ff33; filter: url(#glow); }
-    .dim { font-family: 'Courier New', Courier, monospace; font-size: 14px; fill: #1c8c1c; }
+    .text { font-family: 'Courier New', Courier, monospace; font-size: 13.5px; fill: #33ff33; filter: url(#glow); }
+    .dim { font-family: 'Courier New', Courier, monospace; font-size: 13.5px; fill: #1c8c1c; }
     .bold { font-weight: bold; fill: #66ff66; }
     .cursor { fill: #33ff33; animation: blink 1s step-end infinite; }
     @keyframes blink { 50% { opacity: 0; } }
   </style>
 
   
-  <rect x="10" y="10" width="830" height="360" rx="22" class="bezel" />
+  <rect x="10" y="10" width="830" height="720" rx="22" class="bezel" />
   
-  <rect x="30" y="30" width="790" height="305" rx="12" class="screen" />
+  <rect x="30" y="30" width="790" height="660" rx="12" class="screen" />
 
   
-  <circle cx="795" cy="352" r="5" fill="#33ff33" filter="url(#glow)" />
-  <text x="690" y="356" font-family="monospace" font-size="11" fill="#556655">RIGUIDIX-CRT // 1999</text>
+  <circle cx="795" cy="710" r="5" fill="#33ff33" filter="url(#glow)" />
+  <text x="675" y="714" font-family="monospace" font-size="11" fill="#556655">RIGUIDIX-CRT // 1999</text>
 
   
   <text x="55" y="65" class="text"><tspan class="bold">riguidix@github</tspan>:<tspan class="dim">~$</tspan> neofetch --crt</text>
 
-  
-  <text x="55" y="105" class="text" xml:space="preserve">       /\       </text>
-  <text x="55" y="125" class="text" xml:space="preserve">      /  \      </text>
-  <text x="55" y="145" class="text" xml:space="preserve">     / /\ \     </text>
-  <text x="55" y="165" class="text" xml:space="preserve">    / /  \ \    </text>
-  <text x="55" y="185" class="text" xml:space="preserve">   / /____\ \   </text>
-  <text x="55" y="205" class="text" xml:space="preserve">  /__________\  </text>
-  <text x="55" y="235" class="dim" xml:space="preserve">  [EVERGREEN OS]</text>
+  <text x="55" y="100" class="text" xml:space="preserve">       /\       </text>
+  <text x="55" y="118" class="text" xml:space="preserve">      /  \      </text>
+  <text x="55" y="136" class="text" xml:space="preserve">     / /\ \     </text>
+  <text x="55" y="154" class="text" xml:space="preserve">    / /  \ \    </text>
+  <text x="55" y="172" class="text" xml:space="preserve">   / /____\ \   </text>
+  <text x="55" y="190" class="text" xml:space="preserve">  /__________\  </text>
+  <text x="55" y="215" class="dim" xml:space="preserve">  [EVERGREEN OS]</text>
+
+  <text x="235" y="100" class="text"><tspan class="bold">USER</tspan>      :: Riguidix (Full-Stack Developer)</text>
+  <text x="235" y="118" class="dim">------------------------------------------------------</text>
+  <text x="235" y="140" class="text"><tspan class="bold">BUILDING</tspan>  :: Online Board Game (React + Redux + Konva)</text>
+  <text x="235" y="160" class="text"><tspan class="bold">LEARNING</tspan>  :: Backend Arch, Korean 🇰🇷 &amp; Life ☕</text>
+  <text x="235" y="180" class="text"><tspan class="bold">HOBBIES</tspan>   :: Chess ♟️, Math Puzzles &amp; Board Games</text>
+  <text x="235" y="200" class="text"><tspan class="bold">STATUS</tspan>    :: Open to collaborate on web &amp; game dev</text>
 
   
-  <text x="240" y="105" class="text"><tspan class="bold">USER</tspan>      :: Riguidix (Full-Stack Developer)</text>
-  <text x="240" y="125" class="dim">------------------------------------------------------</text>
-  <text x="240" y="148" class="text"><tspan class="bold">BUILDING</tspan>  :: Online Board Game (React + Redux + Konva)</text>
-  <text x="240" y="170" class="text"><tspan class="bold">FRONTEND</tspan>  :: React, Vue, TailwindCSS, Vite, JS</text>
-  <text x="240" y="192" class="text"><tspan class="bold">BACKEND</tspan>   :: C#, .NET 8, Node.js, SQL Server, Docker</text>
-  <text x="240" y="214" class="text"><tspan class="bold">LEARNING</tspan>  :: Backend Arch, Korean 🇰🇷 &amp; Life ☕</text>
-  <text x="240" y="236" class="text"><tspan class="bold">HOBBIES</tspan>   :: Chess ♟️, Math Puzzles &amp; Board Games</text>
+  <text x="55" y="260" class="text"><tspan class="bold">riguidix@github</tspan>:<tspan class="dim">~$</tspan> ls -la ./featured_projects</text>
+  <text x="55" y="282" class="dim">------------------------------------------------------------------------------</text>
+  <text x="55" y="305" class="text"><tspan class="bold">drwxr-xr-x  online-board-game/</tspan>   :: Tiny Epic Dungeons inspired [React/Konva]</text>
+  <text x="55" y="328" class="text"><tspan class="bold">drwxr-xr-x  personal-portfolio/</tspan>  :: Full-stack showcase [React/Vite/Tailwind]</text>
+  <text x="55" y="351" class="text"><tspan class="bold">drwxr-xr-x  backend-services/</tspan>    :: Clean Arch APIs [C#/.NET 8/SQL/Docker]</text>
 
   
-  <text x="55" y="285" class="text"><tspan class="bold">riguidix@github</tspan>:<tspan class="dim">~$</tspan> ./start_chess_server.sh --theme=phosphor</text>
-  <text x="55" y="308" class="dim">[OK] Listening for visitor moves below...</text>
-  <rect x="400" y="295" width="9" height="16" class="cursor" />
+  <text x="55" y="405" class="text"><tspan class="bold">riguidix@github</tspan>:<tspan class="dim">~$</tspan> cat ./tech_stack.conf</text>
+  <text x="55" y="427" class="dim">------------------------------------------------------------------------------</text>
+  <text x="55" y="452" class="text"><tspan class="bold">[FRONTEND]</tspan>     React • Redux Toolkit • JS • Vue • TailwindCSS • Vite • Bootstrap</text>
+  <text x="55" y="478" class="text"><tspan class="bold">[BACKEND]</tspan>      C# • .NET 8 • Node.js • Express • Python • SQL Server • MongoDB</text>
+  <text x="55" y="504" class="text"><tspan class="bold">[DEVOPS/TOOLS]</tspan> Docker • Git • Postman • Vercel • Netlify • LaTeX • Linux</text>
 
   
-  <rect x="30" y="30" width="790" height="305" rx="12" fill="url(#scanlines)" pointer-events="none" />
+  <text x="55" y="560" class="text"><tspan class="bold">riguidix@github</tspan>:<tspan class="dim">~$</tspan> ./launch_interactive_modules.sh --chess --stats</text>
+  <text x="55" y="585" class="dim">[OK] Mounting external links &amp; repository shortcuts...</text>
+  <text x="55" y="608" class="dim">[OK] Loading GitHub telemetry &amp; live chess terminal below...</text>
+  <text x="55" y="645" class="text"><tspan class="bold">riguidix@github</tspan>:<tspan class="dim">~$</tspan> _</text>
+  <rect x="208" y="632" width="9" height="16" class="cursor" />
+
+  
+  <rect x="30" y="30" width="790" height="660" rx="12" fill="url(#scanlines)" pointer-events="none" />
 </svg>
