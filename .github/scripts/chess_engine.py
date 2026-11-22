@@ -1,5 +1,6 @@
 import os
 import re
+import time
 import sys
 import chess
 import chess.svg
@@ -68,10 +69,12 @@ def build_markdown(board):
 
     new_game_link = f"https://github.com/{REPO}/issues/new?title=chess%7Cnew&body=Reset+board"
 
+    cache_buster = int(time.time())
+
     return f"""<!-- CHESS_BOARD_START -->
 <div align="center">
   <p><code>[ {status} ]</code></p>
-  <img src="./{SVG_FILE}" alt="CRT Chess Board" width="420" />
+  <img src="./{SVG_FILE}?v={cache_buster}" alt="CRT Chess Board" width="420" />
   <br/><br/>
   {moves_md}
   <br/>
