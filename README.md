@@ -7,7 +7,7 @@
 <!-- CHESS_BOARD_START -->
 <div align="center">
   <p><code>[ TURN :: Black (Negras) | CLICK A MOVE TO PLAY ]</code></p>
-  <img src="./chess-board.svg?v=1795307401" alt="CRT Chess Board" width="420" />
+  <img src="./chess-board.svg?v=1795307874" alt="CRT Chess Board" width="420" />
   <br/><br/>
   <details>
 <summary><code>[ > CLICK TO VIEW & PLAY VALID MOVES ]</code></summary>
