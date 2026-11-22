@@ -22,14 +22,13 @@ def save_board(board):
         f.write(board.fen())
 
 def generate_svg(board, last_move=None):
-    # Paleta verde fósforo CRT
     crt_colors = {
-        "square light": "#1e561e",
-        "square dark": "#080c08",
-        "margin": "#040804",
-        "coord": "#33ff33",
-        "square light lastmove": "#2d862d",
-        "square dark lastmove": "#143d14",
+        "square light": "#a3d9a5",          # Verde menta claro (contrasta con blancas y negras)
+        "square dark": "#2d6a3e",           # Verde bosque medio (las piezas negras resaltan)
+        "margin": "#080c08",                # Fondo del monitor CRT
+        "coord": "#33ff33",                 # Coordenadas verde fósforo
+        "square light lastmove": "#c2f0c2", # Resaltado de última jugada (clara)
+        "square dark lastmove": "#3e8e52",  # Resaltado de última jugada (oscura)
     }
     svg_code = chess.svg.board(
         board=board,
