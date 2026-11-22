@@ -1,15 +1,35 @@
-# 💫 About Me:
-🔭 I’m currently working on:<br>Developing an online board game using React, Redux Toolkit, and Konva, inspired by Tiny Epic Dungeons. <br>I'm also building a personal portfolio website to showcase my projects.<br><br>👯 I’m looking to collaborate on:<br>Open-source projects related to web development, game development, or productivity tools.<br><br>🤝 I’m looking for help with:<br>Advanced game state management and optimizing real-time interactions in multiplayer web games.<br><br>🌱 I’m currently learning:<br>Backend development, .Net and SQL<br>Korean language 🇰🇷<br>And going through life ☕<br><br>💬 Ask me about:<br>Frontend development with React & TailwindCSS<br>Game logic and state management in Redux Toolkit<br>Setting up an efficient developer workflow<br><br>⚡ Fun fact:<br>I love solving math for fun also, green is my favorite color! 🍃
+<div align="center">
+  <img src="./crt-header.svg" alt="Riguidix CRT Terminal" width="100%" />
+</div>
 
+<div align="center">
+  <a href="https://linkedin.com/in/TU-USUARIO" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-080c08?style=for-the-badge&logoColor=33ff33" /></a>
+  <a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/EMAIL-080c08?style=for-the-badge&logo=gmail&logoColor=33ff33" /></a>
+  <a href="https://instagram.com/riguidix" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-080c08?style=for-the-badge&logo=instagram&logoColor=33ff33" /></a>
+  <a href="https://facebook.com/riguidix" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-080c08?style=for-the-badge&logo=facebook&logoColor=33ff33" /></a>
+</div>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/riguidix) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/riguidix) 
+<div align="center">
+  <a href="https://github.com/riguidix/NOMBRE-REPO-1"><img src="https://img.shields.io/badge/REPO:_BOARD_GAME-143d14?style=flat-square&logo=github&logoColor=33ff33" /></a>
+  <a href="https://github.com/riguidix/NOMBRE-REPO-2"><img src="https://img.shields.io/badge/REPO:_PORTFOLIO-143d14?style=flat-square&logo=github&logoColor=33ff33" /></a>
+  <a href="https://github.com/riguidix/NOMBRE-REPO-3"><img src="https://img.shields.io/badge/REPO:_BACKEND-143d14?style=flat-square&logo=github&logoColor=33ff33" /></a>
+</div>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Handlebars](https://img.shields.io/badge/Handlebars-%23000000?style=for-the-badge&logo=Handlebars.js&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=riguidix&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=riguidix&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=riguidix&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- CHESS_BOARD_START -->
+<div align="center">
+  <code>[ STATUS: Waiting for GitHub Action to initialize chess board... ]</code>
+</div>
+<!-- CHESS_BOARD_END -->
+
+<br/>
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=riguidix&show_icons=true&bg_color=080c08&title_color=33ff33&text_color=a3ffa3&icon_color=33ff33&border_color=143d14" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riguidix&layout=compact&bg_color=080c08&title_color=33ff33&text_color=a3ffa3&border_color=143d14" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riguidix&background=080c08&border=143d14&stroke=143d14&ring=33ff33&fire=33ff33&currStreakNum=33ff33&sideNums=a3ffa3&currStreakLabel=33ff33&sideLabels=a3ffa3&dates=1c8c1c" alt="GitHub Streak" />
+</div>
