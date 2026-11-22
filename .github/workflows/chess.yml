@@ -9,6 +9,11 @@ permissions:
   contents: write
   issues: write
 
+# Pone en cola las jugadas simultáneas para evitar conflictos de push
+concurrency:
+  group: crt-chess-engine
+  cancel-in-progress: false
+
 jobs:
   update-chess:
     runs-on: ubuntu-latest
@@ -35,10 +40,10 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --global user.name "CRT Chess Bot"
-          git config --global user.email "actions@github.com"
+          git config --local user.name "CRT Chess Bot"
+          git config --local user.email "actions@github.com"
           git add chess_state.fen chess-board.svg README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "♟️ Chess move updated" && git push)
+          git diff --cached --quiet || (git commit -m "♟️ Chess move updated" && git push)
 
       - name: Close Issue
         if: github.event_name == 'issues'
